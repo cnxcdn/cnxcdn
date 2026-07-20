@@ -9,5 +9,5 @@
 
 ### ✨ Work & Life
 
-- 个人博客：<a href="https://023.me" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/023.me-%E5%8D%9A%E5%AE%A2-ff9900"></a>
+- 个人博客：<a href="https://023.me" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/023.me-博客-ff9900"></a>
 - 网址导航：<a href="https://nav.023.me" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/nav.023.me-网址导航-267fef"></a>
